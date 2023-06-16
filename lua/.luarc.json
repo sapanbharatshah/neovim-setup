@@ -1,0 +1,8 @@
+{
+    "workspace.library": [
+        "/home/sshah/.asdf/installs/neovim/stable/share/nvim/runtime/lua",
+        "/home/sshah/.config/nvim/lua",
+        "/home/sshah/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/596851bc",
+        "/home/sshah/.local/share/nvim/mason/packages/lua-language-server/libexec/meta/2c297b33"
+    ]
+}
